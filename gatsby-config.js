@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `hubme`,
+    title: `- KetakKetik -`,
     author: {
-      name: `Yusuf Hari P.`,
-      summary: `Monthly writeup  `,
+      name: `Yusuf`,
+      summary: `Try to write and explain what I do.`,
     },
-    description: `A blog for my weekly or monthly write up`,
-    siteUrl: `https://hubme.xyz`,
+    description: `A story from my experience`,
+    siteUrl: `https://ketakketik.xyz`,
     social: {
       twitter: `yusufhari`,
     },
